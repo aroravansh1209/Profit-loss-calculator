@@ -3,14 +3,6 @@ body{
     text-align: center;
 }
 
-.img{
-    height:100px;
-    width:400px;
-    position: relative;
-    right:-450px;
-    top:-70px;
-}
-
 #purchase-price{
     margin: auto;
     height:25px;
